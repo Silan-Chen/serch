@@ -6,6 +6,9 @@
   "functions": {
     "api/dify/[path].js": {
       "maxDuration": 60
+    },
+    "api/test.js": {
+      "maxDuration": 10
     }
   },
   "headers": [
